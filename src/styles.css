@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: "100vh";
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  background-color: grey;
+}
